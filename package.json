@@ -33,7 +33,7 @@
   },
   "peerDependencies": {
     "@nexus/schema": "^0.15.0 || ^0.16.0 || ^0.17.0",
-    "@prisma/client": "2.10.0",
+    "@prisma/client": "2.10.1",
     "graphql": "^15.3.0"
   },
   "dependencies": {
